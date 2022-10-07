@@ -1,3 +1,19 @@
+  <div align="center">
+    <img src="https://github.com/PiotrSierant/portfolioWeb/blob/master/public/images/logo_darkblue.svg" alt="Logo" width="80" height="80">
+    
+<h3 align="center">My template</h3>
+
+</div>
+
+## ABOUT THE EXERCISE
+
+## BUILT WITH
+
+## LAYOUT 
+
+###
+
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
